@@ -59,7 +59,6 @@
 └── README.md # This file
 
 ---
-
 ## 🔧 Installation
 
 1. **Clone the repo**  
@@ -74,8 +73,7 @@
    ```bash
    streamlit run main.py
 ---
-
-##⚙️ Usage Guide
+## ⚙️ Usage Guide
 1. Choose input: 🎙 Microphone | 📂 File | ▶️ YouTube.
 
 2. Configure summary quality and length.
@@ -86,8 +84,7 @@
 
 5. Download as PDF / DOCX / JSON.
 ---
-
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 1. [OpenAI Whisper](https://github.com/openai/whisper)
 
@@ -97,11 +94,10 @@
 
 4. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 ---
-
-##📜 License
+## 📜 License
 - MIT License © 2025 [Issac Moses](https://github.com/Issac-Moses) & [Thirumalai Nambi](https://github.com/Thirumalai-Nambi-S)
 ---
-##📬 Contact
+## 📬 Contact
 - 📧 Issac Moses – issacmoses19082005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
 ---
