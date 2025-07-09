@@ -2,7 +2,7 @@
 
 > 🚀 Transform your **lecture audio/video/YouTube** content into intelligent, exportable summaries using advanced AI.
 
-1. [AI Lecture Summarizer Banner](https://github.com/Issac-Moses/Notes-Summarizer)
+[AI Lecture Summarizer Banner](https://github.com/Issac-Moses/Notes-Summarizer)
 1. ![Screenshot](screenshots/5.jpg)
 ---
 
