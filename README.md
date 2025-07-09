@@ -58,7 +58,7 @@
 - ├── main.py # Streamlit frontend
 - ├── lecture4.py # Backend logic (AI, transcription, exports)
 - ├── style.css # Custom styles and UI enhancements
-- ├── logo.png # App logo (optional)
+- ├── silvy_logo.png # App logo (optional)
 - └── README.md # This file
 
 ---
@@ -66,8 +66,8 @@
 
 1. **Clone the repo**  
     ```bash
-    git clone https://github.com/your-username/AI-Lecture-Summarizer-Pro.git
-    cd AI-Lecture-Summarizer-Pro
+    git clone https://github.com/Thirumalai-Nambi-S/Notes-Summarizer-AI.git
+    cd Notes-Summarizer-AI
 2. **Install dependencies**
    Make sure Python 3.9+ is installed.
     ```bash
