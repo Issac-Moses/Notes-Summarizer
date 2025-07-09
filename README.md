@@ -73,6 +73,7 @@
 3. Run the App
    ```bash
    streamlit run main.py
+---
 
 ##⚙️ Usage Guide
 1. Choose input: 🎙 Microphone | 📂 File | ▶️ YouTube.
@@ -84,6 +85,7 @@
 4. View results under the Summary tab.
 
 5. Download as PDF / DOCX / JSON.
+---
 
 ##🙌 Acknowledgements
 
@@ -94,10 +96,11 @@
 3. [Streamlit](https://streamlit.io/)
 
 4. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+---
 
 ##📜 License
 - MIT License © 2025 [Issac Moses](https://github.com/Issac-Moses) & [Thirumalai Nambi](https://github.com/Thirumalai-Nambi-S)
-
+---
 ##📬 Contact
 - 📧 Issac Moses – issacmoses19082005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
