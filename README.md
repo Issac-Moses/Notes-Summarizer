@@ -34,9 +34,9 @@
 ## 🖥️ Demo Screenshot
 
 ![Screenshot](screenshots/1.jpg)
-![Screenshot](https://via.placeholder.com/900x500.png?text=App+Screenshot)
-![Screenshot](https://via.placeholder.com/900x500.png?text=App+Screenshot)
-![Screenshot](https://via.placeholder.com/900x500.png?text=App+Screenshot)
+![Screenshot](screenshots/2.jpg)
+![Screenshot](screenshots/3.jpg)
+![Screenshot](screenshots/4.jpg)
 
 ---
 
