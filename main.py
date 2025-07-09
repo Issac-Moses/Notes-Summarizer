@@ -21,7 +21,7 @@ st.set_page_config(
 
 load_enhanced_css()
 
-logo_path = "logo.png"
+logo_path = "silvy_logo.png"
 if os.path.exists(logo_path):
     with open(logo_path, "rb") as image_file:
         encoded = base64.b64encode(image_file.read()).decode()
@@ -45,7 +45,7 @@ st.markdown("""
     <div class="subtitle">Transform your audio content into intelligent summaries</div>
     <div style="margin-top: 1rem;">
         <span style="background: rgba(76,175,80,0.2); padding: 0.25rem 0.75rem; border-radius: 15px; color: white; font-size: 0.9rem;">
-            😈 Powered by Frenzy AI
+            💀 Powered by Silvy AI
         </span>
     </div>
 </div>
