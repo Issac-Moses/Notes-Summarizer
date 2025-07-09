@@ -52,11 +52,11 @@
 
 ## 🗂️ Project Structure
 
--├── main.py # Streamlit frontend
--├── lecture4.py # Backend logic (AI, transcription, exports)
--├── style.css # Custom styles and UI enhancements
--├── logo.png # App logo (optional)
--└── README.md # This file
+- ├── main.py # Streamlit frontend
+- ├── lecture4.py # Backend logic (AI, transcription, exports)
+- ├── style.css # Custom styles and UI enhancements
+- ├── logo.png # App logo (optional)
+- └── README.md # This file
 
 ---
 ## 🔧 Installation
