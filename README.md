@@ -66,7 +66,7 @@
 
 1. **Clone the repo**  
     ```bash
-    git clone https://github.com/Thirumalai-Nambi-S/Notes-Summarizer-AI.git
+    git clone https://github.com/Issac-Moses/Notes-Summarizer
     cd Notes-Summarizer-AI
 2. **Install dependencies**
    Make sure Python 3.9+ is installed.
