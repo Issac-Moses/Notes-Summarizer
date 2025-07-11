@@ -33,7 +33,7 @@
 
 ## 🖥️ Demo Screenshot
 
-![Screenshot](screenshots/1.jpg)
+![Screenshot](screenshots/6.jpg)
 ![Screenshot](screenshots/2.jpg)
 ![Screenshot](screenshots/3.jpg)
 ![Screenshot](screenshots/4.jpg)
@@ -98,11 +98,10 @@
 4. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 ---
 ## 📜 License
-- MIT License © 2025 [Issac Moses](https://github.com/Issac-Moses) & [Thirumalai Nambi](https://github.com/Thirumalai-Nambi-S)
+- MIT License © 2025 [Issac Moses](https://github.com/Issac-Moses)
 ---
 ## 📬 Contact
 - 📧 Issac Moses – issacmoses19082005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
 ---
-- 📧 Thirumalainambi – sthirumalainambi5802@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/thirumalai-nambi-s-a94b7a29b)
+
